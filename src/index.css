@@ -66,3 +66,26 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.PESSOA-nome {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 8px;
+  background-color: #0077cc;
+}
+
+/* Idade */
+.PESSOA-idade {
+  font-size: 1rem;
+  color: yellow;
+  margin-bottom: 4px;
+  background-color:black;
+}
+
+/* Profissão */
+.PESSOA-profissao {
+  font-size: 1rem;
+  color: darkblue;
+  background-color:yellow;
+}
